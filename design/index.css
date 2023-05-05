@@ -66,6 +66,10 @@
 }
 
 .right img {
+  /* background-image: url(images\image-hero-desktop.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat; */
   width: auto;
   height: 30rem;
 }
