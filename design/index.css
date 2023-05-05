@@ -18,7 +18,7 @@
   display: flex;
   align-items: center;
   list-style: none;
-  column-gap: 1rem;
+  column-gap: 2rem;
 }
 
 .head2 {
